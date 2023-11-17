@@ -23,3 +23,6 @@ Esta landing page tiene como objetivo principal atraer a posibles estudiantes in
 
 ¡Gracias por visitar nuestra landing page!
 
+![image](https://github.com/GaboGabito05/Landing-Page-Web-Desing/assets/143914438/130e6a61-20dd-4c2e-a47f-1621f1a21766)
+
+
